@@ -1,1 +1,2 @@
-# python
+#  Python
+# Primeros paos en Python
